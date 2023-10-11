@@ -1,1 +1,5 @@
 Hola, bienvenid@
+
+esto esta mal.
+
+tienes que cambiar de profesor de git porque es un pesado
